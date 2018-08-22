@@ -1,3 +1,4 @@
 name: udp
 summary: Basic UDP interface
 version: 1
+repo: https://github.com:tengu-team/interface-udp.git
